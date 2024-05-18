@@ -1,0 +1,1 @@
+# https-github.com-H-Nika-goit-typescript-hw-02
